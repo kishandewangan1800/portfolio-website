@@ -24,9 +24,8 @@ const Technologies = () => (
       I am a Front End Developer searching for a chance to work with a company
       and develop my talents. I'm a newbie with some lovely projects designing
       websites and web application. I am an expert in JavaScript and have skill
-      with DSA in Java. I have developing expertise with React, as well as more
-      than 3 years of management, public relations, and marketing experience.
-      Check out my work or contact me!
+      in DSA Java. I have developing expertise with React, as well as more
+      than 3 years of public relations and marketing experience.
     </SectionText>
     <List>
       <ListItem>
