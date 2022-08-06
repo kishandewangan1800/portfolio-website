@@ -89,14 +89,20 @@ export const UtilityList = styled.ul`
 
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
+color:#fff;
+width: 30%;
+height: 80%;
+margin: 10px;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
-background: #501414;
+background: linear-gradient(to right, rgba(120, 10, 255, 1), rgba(10, 170, 255, 1));
+background-size: 100%;
+background-repeat: no-repeat;
+text-decoration: none;
 border-radius: 15px;
-transition: 0.5s;
+transition: 0.5s ease;
 &:hover{
-  background: #801414;
+  background: linear-gradient(to right, rgba(210, 40, 10, 1), rgba(120, 10, 255, 1));
 }
 `;
 
