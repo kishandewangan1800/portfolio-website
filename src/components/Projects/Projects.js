@@ -28,7 +28,7 @@ const Projects = () => (
     <GridContainer>
       {projectsData.map((project) => (
         <BlogCard key={project.id}>
-          {/* <Img src={project.image} /> */}
+          <Img src={project.image} />
           <TitleContent>
             <HeaderThree title>{project.title}</HeaderThree>
             <Hr />
