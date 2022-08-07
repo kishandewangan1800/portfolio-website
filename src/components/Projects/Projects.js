@@ -24,7 +24,7 @@ import { projectsData } from "./ProjectData";
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
-    <SectionTitle main>Projects</SectionTitle>
+    <SectionTitle >Projects</SectionTitle>
     <GridContainer>
       {projectsData.map((project) => (
         <BlogCard key={project.id}>
