@@ -63,6 +63,16 @@ const Timeline = () => {
       </SectionSubTitle>
       
       <List>
+
+      <ListItem>
+        <FiBook size="2rem" />
+        <ListContainer>
+          <ListTitle>MBA</ListTitle>
+          <ListParagraph>Media Management from KTUJM, Raipur || Grade 80.76% (Oct 20 - Aug 22)</ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+
       <ListItem>
         <FiBook size="2rem" />
         <ListContainer>
