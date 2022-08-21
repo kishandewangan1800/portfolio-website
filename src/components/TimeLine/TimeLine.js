@@ -65,7 +65,7 @@ const Timeline = () => {
       <List>
 
       <ListItem>
-        <FiBook size="2rem" />
+        <FiBook size="3rem" />
         <ListContainer>
           <ListTitle>MBA</ListTitle>
           <ListParagraph>Media Management from KTUJM, Raipur || Grade 80.76% (Oct 20 - Aug 22)</ListParagraph>
@@ -74,7 +74,7 @@ const Timeline = () => {
 
 
       <ListItem>
-        <FiBook size="2rem" />
+        <FiBook size="3rem" />
         <ListContainer>
           <ListTitle>BE</ListTitle>
           <ListParagraph>Mechanical Engineering from CSVTU, Bhilai || Grade 77.61% (Jul 14 - May 18)</ListParagraph>
