@@ -22,7 +22,7 @@ import Button from "../../styles/GlobalComponents/Button";
 import { projectsData } from "./ProjectData";
 
 const Projects = () => (
-  <Section nopadding id="projects">
+  <Section id="projects">
  
     <SectionDivider />
     <br />
